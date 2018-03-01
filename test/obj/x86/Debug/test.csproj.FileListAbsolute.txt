@@ -94,14 +94,7 @@ C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Entit
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ICSharpCode.SharpZipLib.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Json.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\JWT.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\MongoDB.Bson.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\MongoDB.Driver.Core.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\MongoDB.Driver.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Rql.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Rql.MongoDB.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ServiceBelt.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ServiceStack.Client.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ServiceStack.Common.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ServiceStack.dll
@@ -113,13 +106,10 @@ C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Syste
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Net.Http.Extensions.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Net.Http.Primitives.dll
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Web.Http.dll
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\EntityFramework.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Json.pdb
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\MongoDB.Bson.xml
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\MongoDB.Driver.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ServiceStack.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\ServiceStack.Client.xml
@@ -131,8 +121,58 @@ C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\Syste
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Net.Http.Extensions.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Net.Http.Primitives.xml
-C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\bin\Debug\System.Web.Http.xml
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\obj\x86\Debug\test.exe
 C:\Users\Andrzej\Downloads\projekt-grupowy3\projekt grupowy\test\obj\x86\Debug\test.pdb
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\test.exe.config
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\test.exe
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\test.pdb
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\EntityFramework.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Json.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\JWT.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\MongoDB.Bson.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\MongoDB.Driver.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Npgsql.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Rql.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Rql.MongoDB.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceBelt.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Client.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Common.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Text.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Web.Http.dll
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\EntityFramework.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Json.pdb
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\MongoDB.Bson.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\MongoDB.Driver.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\Npgsql.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Client.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Common.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\ServiceStack.Text.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\bin\Debug\System.Web.Http.xml
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\obj\x86\Debug\test.exe
+C:\Users\Andrzej\Downloads\projekt grupowy\projekt grupowy\test\obj\x86\Debug\test.pdb

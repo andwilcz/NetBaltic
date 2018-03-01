@@ -1,13 +1,15 @@
 ﻿<Properties StartupConfiguration="{2C610CBC-4BDE-4017-BB9B-8B01A3C2F39B}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="test/ServerProxy.cs">
     <Files>
-      <File FileName="test/Program.cs" Line="57" Column="45" />
+      <File FileName="test/Program.cs" Line="33" Column="1" />
       <File FileName="test/InputMessageTransportModule.cs" Line="5" Column="33" />
       <File FileName="test/OutputMessageTransportModule.cs" Line="9" Column="3" />
       <File FileName="test/Priorities.cs" Line="5" Column="2" />
       <File FileName="test/ServiceType.cs" Line="21" Column="3" />
       <File FileName="test/WebServiceDataFormat.cs" Line="5" Column="11" />
-      <File FileName="test/ServerProxy.cs" Line="2" Column="32" />
+      <File FileName="test/ServerProxy.cs" Line="194" Column="32" />
+      <File FileName="test/Service.cs" Line="115" Column="1" />
+      <File FileName="test/Postgresql.cs" Line="20" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
